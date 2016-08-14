@@ -1,0 +1,4 @@
+Kick Message: '[Error] too many connections from your IP'
+# Message sent to the player when they are kicked.
+Allowed Connections: 3
+# Number of connections allowed.

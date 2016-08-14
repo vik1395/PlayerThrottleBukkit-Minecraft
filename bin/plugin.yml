@@ -1,0 +1,8 @@
+name: PlayerThrottleBukkit
+version: 1.0
+description: A plugin that sets a limit to the number of players allowed to join from one IP.
+author: Vik1395
+
+main: me.vik1395.PlayerThrottleBukkit.Main
+
+commands:
